@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I am a student/graduate from the UCF Full Stack Web Development Bootcamp. I enjoy working with people to solve problems. Currently I am a full stack developer working on websites for clients as well as personal projects, such as NightBeat. I enjoy many hobbies from cars, watches, computers (hardware), and almost anything with moving parts! My goal is to get into the DevOps field.",
     "address":"Central FL",
-    "website":"https://designedbydillon.com",
+    "website":"https://github.com/ByDillon/",
     "education":[
       {
         "UniversityName":"UCF Full Stack Bootcamp",
