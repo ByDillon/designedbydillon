@@ -57,7 +57,7 @@ let resumeData = {
         "Achievements":"Admin of various Local-Business Facebook pages, forum.theairlineacademy.com"
       }
     ],
-    "skillsDescription":"Sample Skills",
+    "skillsDescription":"Sample Skills for display *Not a reflection of my actual abilities*",
     "skills":[
       {
         "skillname":"HTML5"
