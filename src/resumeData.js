@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-Stack Web Developer",
     "linkedinId":"https://www.linkedin.com/in/dillon-tidwell/",
     "skypeid": "NoSkype",
-    "roleDescription": " I enjoy automation, learning and Node.JS.",
+    "roleDescription": " I enjoy automation, learning new things and Node.JS.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -57,7 +57,7 @@ let resumeData = {
         "Achievements":"Admin of various Local-Business Facebook pages, forum.theairlineacademy.com"
       }
     ],
-    "skillsDescription":"Showcase",
+    "skillsDescription":"Sample Skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,7 +66,7 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Node.JS"
       }
     ],
     "portfolio":[
