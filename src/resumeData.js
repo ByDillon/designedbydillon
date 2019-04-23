@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"http://github.com/ByDillon",
     "name": "Dillon Tidwell",
     "role": "Full-Stack Web Developer",
-    "linkedinId":"https://www.linkedin.com/in/dillon-tidwell/",
+    "linkedinId":" https://www.linkedin.com/in/dillon-tidwell/",
     "skypeid": "NoSkype",
     "roleDescription": " I enjoy automation, learning new things and Node.JS.",
     "socialLinks":[
