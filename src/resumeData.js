@@ -97,8 +97,8 @@ let resumeData = {
         "name":"Dillon Tidwell"
       },
       {
-        "description":"Contact me at the number below!",
-        "name":"386-314-5241"
+        "description":"Contact email me at the address below!",
+        "name":"admin@yearmlg.com"
       }
     ]
   }
